@@ -14,13 +14,12 @@ To identify and visualize incorrect income entries based on job titles, departme
 ## 📁 Data Description
 
 The dataset was generated using [Mockaroo.com](https://mockaroo.com/) and includes:
-- Employee Name
-- Job Title
+- EmployeeID	
+- MonthlyIncome
 - Department
-- Monthly Income
-- Entry Date
-- And other related fields
-
+- CreatedBy
+- CreatedAt
+  
 Total Records: **1000**
 
 ## 📈 Dashboard Features
