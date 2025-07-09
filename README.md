@@ -22,6 +22,11 @@ The dataset was generated using [Mockaroo.com](https://mockaroo.com/) and includ
   
 Total Records: **1000**
 
+## 📷 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard-preview.png)
+
+
 ## 📈 Dashboard Features
 
 - 🔍 Salary anomaly detection using conditional formatting
